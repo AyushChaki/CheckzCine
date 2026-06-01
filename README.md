@@ -17,11 +17,11 @@ CheckzCine is an AI-powered movie information extraction application built using
 
 ### Home Screen
 
-![Home Screen](<img width="1897" height="886" alt="output png" src="https://github.com/user-attachments/assets/6b47b5f9-fce3-4238-bd6b-6badeb731bfd" />home.png)
+![Home Screen](<img width="1888" height="867" alt="home png" src="https://github.com/user-attachments/assets/e1eea85a-9a4b-4585-8766-824cfb9c84ef" />home.png)
 
 ### Movie Information Extraction
 
-![Output Screen](<img width="1888" height="867" alt="home png" src="https://github.com/user-attachments/assets/e1eea85a-9a4b-4585-8766-824cfb9c84ef" />output.png)
+![Output Screen](<img width="1897" height="886" alt="output png" src="https://github.com/user-attachments/assets/6b47b5f9-fce3-4238-bd6b-6badeb731bfd" />output.png)
 
 ---
 
